@@ -19,7 +19,7 @@ Blind Assistant using Arduino and ultrasonic sensor along with Android applicati
 ## Programming Languages
 
 * C++
-* Java
+* Kotlin
 
 ---
 
